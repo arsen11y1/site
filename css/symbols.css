@@ -1,0 +1,69 @@
+body{
+	background-color: lightblue;
+}
+p{
+	font-size: 48px;
+	color: darkmagenta;
+}
+.p1{
+	color: darkmagenta;
+	background-color: mediumpurple;
+}
+.p2{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.p3{
+	font-family: Helvetica, Verdana, Arial, sans-serif;
+}
+.p4{
+	font-family: Georgia, Times,"Times New Roman" , serif;
+}
+.p5{
+	font-family: "Lucida Console", Courier, monospace;
+}
+.p6 {
+	font-family: cursive;
+}
+.p7{
+	 font-family: "Kablammo", system-ui;
+	 text-shadow: 0 0 50px greenyellow ;
+}
+.p8{
+	 font-family: "Rubik Scribble", system-ui;
+	 text-shadow: 0 0 50px darkmagenta ;
+}
+.p9{
+	font-family: "Rubik Maps", system-ui;
+	text-shadow: 2px 2px red;
+}
+.p10{
+	font-family: "Rubik Moonrocks", sans-serif;
+	text-shadow: 2px -2px green, 4px -4px orange;
+}
+.p11{
+	font-family: "Pacifico", cursive;
+	text-shadow: 2px -2px 10px orange;
+}
+.p12{
+	font-weight: 700;
+	text-shadow: 0 0 15px teal;
+}
+.p13{
+	font-style: italic;
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-style: wavy;
+	text-decoration-color: red;
+}
+.p14{
+	text-decoration: underline;
+	text-underline-position: under;
+	text-decoration-style: dashed;
+	text-decoration-color: green;
+}
+.s1{
+	font-size: 2 em;
+	color: blueviolet;
+	font-family: "Rubik Maps", system-ui;
+	text-shadow: 2px -2px 10px red;
+}
