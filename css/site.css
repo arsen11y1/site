@@ -22,10 +22,12 @@ h2{
 }
 article > p{
 	text-align: justify;
+	font-size:24px;
 }
 article{
 	margin: 5px;
 	border: 2px dashed lavender;
+	padding:10px;
 }
 .bgvideo{
 	height: 100%;
